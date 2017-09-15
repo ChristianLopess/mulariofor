@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Tutorial</title>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+   <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+
+<div class="irineu"></div>
+
+<div class="container">
+  <div class="jumbotron">
+   <div class="lala">.</div>
+  <div class="space">.<div> 
+<div class="lixo"> 
+
+<div class="form-group">
+  <p>Nome</p>
+<input type="text" class="form-control" id="formGroupExampleInput" placeholder="Coloque seu Nome">
+  
+</div>
+  
+ </div>
+<div class="lixo">  
+ <p>Email</p>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Coloque seu Email">
+  </div>
+ 
+  <div class="lixo">  
+ <p>Senha</p>
+     <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Coloque sua Senha">
+  </div>
+  
+  <div class="lixo"> 
+  <p>Sexo</p>
+  
+   <input type="radio" name="gender" value="male" checked>Masculino<br>
+  <input type="radio" name="gender" value="female">Feminino<br>
+  </div>
+  
+<div class="lixo"> 
+<input class="form-check-input" type="checkbox"> Li e Aceito
+</div>
+<div class="lixo"> 
+   <button type="submit" class="btn btn-primary">Enviar</button>
+   
+   
+</div>
+</form>
+</body>
+</html>
+
+
+   
+  </div>
+   </center>     
+</div>
+</body>
+</html>
